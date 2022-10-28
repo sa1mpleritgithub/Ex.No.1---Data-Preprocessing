@@ -75,9 +75,13 @@ print(df1)
 ```
 ##OUTPUT:
 ![image](https://user-images.githubusercontent.com/103555234/198259439-eb7a26e8-8fdd-4bb0-996d-113ff4586303.png)
+
 ![image](https://user-images.githubusercontent.com/103555234/198259567-c7b08b18-deb3-4031-b8a7-e30946a17a55.png)
+
 ![image](https://user-images.githubusercontent.com/103555234/198259686-361f417f-fc5b-4558-9fe6-342aab5ff621.png)
+
 ![image](https://user-images.githubusercontent.com/103555234/198259811-dadd3e59-d75c-4b21-bf6b-c496bfadca57.png)
+
 ![image](https://user-images.githubusercontent.com/103555234/198259892-0d2d04c3-3680-4870-9e59-10654ffa9946.png)
 
 
